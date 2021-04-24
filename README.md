@@ -1,1 +1,1 @@
-# android-list-dnd-sample
+# Drag and drop list item on RecyclerView
